@@ -4,6 +4,8 @@ This project is an analysis of Bitcoin price data over the last 30 days, with a 
 bitcoin_price_analysis.ipynb: a Jupyter Notebook containing the code and visualizations for the analysis
 bitcoin_price_data.csv: a CSV file containing the Bitcoin price data used in the analysis
 README.md: this file, providing an overview of the project
+
+
 Requirements
 To run the code in the Jupyter Notebook, you will need to install the following Python packages:
 
@@ -11,6 +13,8 @@ numpy
 pandas
 yfinance
 plotly
+
+
 Data Source
 The Bitcoin price data was sourced from Yahoo Finance.
 
